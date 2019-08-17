@@ -51,7 +51,7 @@ import com.qualcomm.robotcore.util.Range;
  */
 
 @TeleOp(name="ShaDope: ShaDopeMode", group="ShaDizzle")
-@Disabled
+//@Disabled
 public class ShadMode_teleop extends LinearOpMode {
 
     // Declare OpMode members.
