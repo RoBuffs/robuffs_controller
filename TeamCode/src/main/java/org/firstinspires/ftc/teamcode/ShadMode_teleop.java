@@ -50,7 +50,7 @@ import com.qualcomm.robotcore.util.Range;
  * Remove or comment out the @Disabled line to add this opmode to the Driver Station OpMode list
  */
 
-@TeleOp(name="Basic: ShaDopeMode", group="Linear Opmode")
+@TeleOp(name="ShaDope: ShaDopeMode", group="ShaDizzle")
 @Disabled
 public class ShadMode_teleop extends LinearOpMode {
 
