@@ -12,7 +12,7 @@ import com.qualcomm.robotcore.hardware.DcMotor;
  */
 @TeleOp(name="Mecanum Drive Example", group="Iterative Opmode")
 //@Disabled
-public class ShadowMecanu=]=566 extends OpMode {
+public class ShadowMecanum extends OpMode {
 
 /*
  * The mecanum drivetrain involves four separate motors that spin in
