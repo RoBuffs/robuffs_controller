@@ -12,7 +12,7 @@ import com.qualcomm.robotcore.hardware.DcMotor;
  */
 @TeleOp(name="Mecanum Drive Example", group="Iterative Opmode")
 //@Disabled
-public class ShadowMecanu=]=566 extends OpMode {
+public class ShadowMecanum extends OpMode {
 
 /*
  * The mecanum drivetrain involves four separate motors that spin in
@@ -74,7 +74,7 @@ public void loop() {
         (drive - strafe - twist),
         (drive - strafe + twist),
         (drive + strafe - twist)
-        |
+        
         };
 
         // Because we are adding vectors and motors only take values between
