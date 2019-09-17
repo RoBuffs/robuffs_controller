@@ -74,7 +74,7 @@ public void loop() {
         (drive - strafe - twist),
         (drive - strafe + twist),
         (drive + strafe - twist)
-        
+
         };
 
         // Because we are adding vectors and motors only take values between
